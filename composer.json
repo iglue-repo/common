@@ -1,5 +1,8 @@
 {
-    "name": "doctrine/common",
+    "name": "doctrine@iglue/common",
+    "replace": {
+        "doctrine/common": "v2.7.3"
+    },
     "type": "library",
     "description": "Common Library for Doctrine projects",
     "keywords": ["collections", "spl", "eventmanager", "annotations", "persistence"],
